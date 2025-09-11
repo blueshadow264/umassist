@@ -1,3 +1,10 @@
 opencv-python
+easyocr
 pytesseract
 pillow
+keyboard
+mouse
+mss
+pyautogui
+pyscreenshot
+PyQt5
